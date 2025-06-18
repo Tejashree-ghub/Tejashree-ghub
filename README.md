@@ -1,85 +1,66 @@
-<h1 align="center">Hi 👋, I'm Tejashree Yelicherla</h1>
-<h3 align="center">🚀 Passionate Web Developer | Problem Solver | Tech Enthusiast from India</h3>
+<h1 align="center">✨ Hi there, I'm <span style="color:#fca311;">Tejashree Yelicherla</span> 👋</h1>
+<h3 align="center">🚀 Full Stack Developer | 🧠 ML Enthusiast | 🎯 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;ML+Enthusiast;Competitive+Programmer;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750679-6c3ad1d9-fbaa-4c26-bc6b-63b6f3bc8b03.gif" width="80%" />
 </p>
 
 ---
 
-### 🔗 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/tejashreeyelicherla" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://fb.com/tejashree.yelicherla" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/tejashreereddy_8804" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="https://www.codechef.com/users/tejashree_567" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="CodeChef" height="30" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/tejashreeyelich1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
-  </a>
-  <a href="https://codeforces.com/profile/tejashreecode" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" alt="Codeforces" height="30" width="40"/>
-  </a>
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejashreeyelicherla" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/tejashreereddy_8804" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/tejashree_567" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/tejashreecode" target="_blank"><img src="https://img.shields.io/badge/Codeforces-lightgrey?style=for-the-badge&logo=codeforces&logoColor=black"/></a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,react,angular,django,nodejs,mongodb,mysql,postgres,git,github,linux,figma,tensorflow,pytorch" />
 </p>
+
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on **cutting-edge web apps & ML prototypes**
+- 🌱 Currently diving deeper into **Next.js, AI/ML, and Docker**
+- 👯 Open to **collaborating on full stack & AI-powered solutions**
+- 💬 Ask me about **JavaScript, MERN, Python, ML, or Git**
+- 📫 Reach me at **tejashreeyelicherla@gmail.com**
+- ✨ I believe in **building real-world impactful tech**
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejashree-ghub&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tejashree-ghub&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tejashree-ghub&theme=github-dark-blue&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejashree-ghub&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejashree-ghub&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejashree-ghub&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-### ⚡ Fun Facts
+### 🎯 Fun Facts
 
-- 🔭 I’m currently working on **exciting MERN stack projects**
-- 🌱 I’m learning **AI/ML, Next.js, and DevOps**
-- 💬 Ask me about **Full Stack Development, Python, or Data Structures**
-- 👯 I’m open to **collaborating on open-source and innovative web apps**
-- 📫 Reach me at **tejashreeyelicherla@gmail.com**
-- 😄 Pronouns: She/Her
+- I love designing intuitive UI + writing scalable backend code.
+- Competitive programming sharpens my problem-solving skills.
+- I thrive in a fast-paced, innovation-driven environment.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+</p>
 
 ---
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
-
+<p align="center">
+  <b>"Code is like humor. When you have to explain it, it’s bad." – Cory House</b>
+</p>
